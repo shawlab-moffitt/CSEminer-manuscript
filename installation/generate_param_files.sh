@@ -14,8 +14,8 @@ echo "CANCER_SAMPLE2DISEASETYPE = "$path2currentdirectory"/Diagnosis_Brain_Clini
 echo "NORM_SAMPLE2TISSUETYPE = "$path2currentdirectory"/GTEx_SampleID2Histology_updated.txt" >> CSI-Miner_BrainTumorOnly.param
 
 echo "# Name that will be used in the pipeline" >> CSI-Miner_BrainTumorOnly.param
-echo "#CANCER_PREFIX = PCGP_TARGET_Clinical" >> CSI-Miner_BrainTumorOnly.param
-echo "#NORM_PREFIX = GTEx" >> CSI-Miner_BrainTumorOnly.param
+echo "CANCER_PREFIX = PCGP_TARGET_Clinical" >> CSI-Miner_BrainTumorOnly.param
+echo "NORM_PREFIX = GTEx" >> CSI-Miner_BrainTumorOnly.param
 echo "###################" >> CSI-Miner_BrainTumorOnly.param
 
 
@@ -46,8 +46,8 @@ echo "CANCER_SAMPLE2DISEASETYPE = "$path2currentdirectory"/Diagnosis_Solid_Clini
 echo "NORM_SAMPLE2TISSUETYPE = "$path2currentdirectory"/GTEx_SampleID2Histology_updated.txt" >> CSI-Miner_SolidTumorOnly.param
 
 echo "# Name that will be used in the pipeline" >> CSI-Miner_SolidTumorOnly.param
-echo "#CANCER_PREFIX = PCGP_TARGET_Clinical" >> CSI-Miner_SolidTumorOnly.param
-echo "#NORM_PREFIX = GTEx" >> CSI-Miner_SolidTumorOnly.param
+echo "CANCER_PREFIX = PCGP_TARGET_Clinical" >> CSI-Miner_SolidTumorOnly.param
+echo "NORM_PREFIX = GTEx" >> CSI-Miner_SolidTumorOnly.param
 echo "###################" >> CSI-Miner_SolidTumorOnly.param
 
 
