@@ -24,8 +24,8 @@ echo "MATRIXDB_CORE = "$path2currentdirectory"/extra_cellular_matrix/matrixdb_CO
 echo "THERAPEUTIC_TARGET = "$path2currentdirectory"/therapeutic_targets/therpeutic_target.txt" >> CSI-Miner_BrainTumorOnly.param
 echo "SURFACEOME = "$path2currentdirectory"/surfaceome/pnas/experiment.txt" >> CSI-Miner_BrainTumorOnly.param
 
-echo "EXON_APPRIS = "$path2currentdirectory"/APPRIS/Gencode36_Ensembl102_ApprisExonAnnotation.txt" >> CSI-Miner_BrainTumorOnly.param
-echo "OTHER_EXON_ANNOTATION = "$path2currentdirectory"/surfaceome/OtherExonAnnotation.txt.csv" >> CSI-Miner_BrainTumorOnly.param
+echo "EXON_APPRIS = "$path2currentdirectory"/Gencode36_Ensembl102_ApprisExonAnnotation.txt" >> CSI-Miner_BrainTumorOnly.param
+echo "OTHER_EXON_ANNOTATION = "$path2currentdirectory"/OtherExonAnnotation.txt.csv" >> CSI-Miner_BrainTumorOnly.param
 
 echo "PRIMARY_ASSEMBLY_FASTA = "$path2currentdirectory"/GRCh38.primary_assembly.genome.fa" >> CSI-Miner_BrainTumorOnly.param
 echo "UNIPROT_FASTA = "$path2currentdirectory"/Homo_sapiens_uniprot_sprot_combined.fasta" >> CSI-Miner_BrainTumorOnly.param
@@ -56,8 +56,8 @@ echo "MATRIXDB_CORE = "$path2currentdirectory"/extra_cellular_matrix/matrixdb_CO
 echo "THERAPEUTIC_TARGET = "$path2currentdirectory"/therapeutic_targets/therpeutic_target.txt" >> CSI-Miner_SolidTumorOnly.param
 echo "SURFACEOME = "$path2currentdirectory"/surfaceome/pnas/experiment.txt" >> CSI-Miner_SolidTumorOnly.param
 
-echo "EXON_APPRIS = "$path2currentdirectory"/APPRIS/Gencode36_Ensembl102_ApprisExonAnnotation.txt" >> CSI-Miner_SolidTumorOnly.param
-echo "OTHER_EXON_ANNOTATION = "$path2currentdirectory"/surfaceome/OtherExonAnnotation.txt.csv" >> CSI-Miner_SolidTumorOnly.param
+echo "EXON_APPRIS = "$path2currentdirectory"/Gencode36_Ensembl102_ApprisExonAnnotation.txt" >> CSI-Miner_SolidTumorOnly.param
+echo "OTHER_EXON_ANNOTATION = "$path2currentdirectory"/OtherExonAnnotation.txt.csv" >> CSI-Miner_SolidTumorOnly.param
 
 echo "PRIMARY_ASSEMBLY_FASTA = "$path2currentdirectory"/GRCh38.primary_assembly.genome.fa" >> CSI-Miner_SolidTumorOnly.param
 echo "UNIPROT_FASTA = "$path2currentdirectory"/Homo_sapiens_uniprot_sprot_combined.fasta" >> CSI-Miner_SolidTumorOnly.param
