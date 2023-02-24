@@ -1,1 +1,22 @@
 This pipeline provides an example of the htseq exon quantification step
+
+Installation Notes:
+### Shell Command ###
+
+g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
+
+############
+
+Execution Example:
+### Shell Script ###
+
+./HTSeqcount2fpkmtpm PCGP_countfile.list 101 PCGP_903
+
+#######################
+
+# PCGP_countfile.list is the list of htseqcount output count file location, e.g.
+SJACT001_D_count.txt
+SJACT002_D_count.txt
+ 
+#PCGP_905 is the prefix of output. 3 output:
+#PCGP_903-summary.txt  PCGP_903_FPKM_final.txt  PCGP_903_TPM_final.txt
