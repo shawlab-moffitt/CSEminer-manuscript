@@ -10,13 +10,12 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 Execution Example:
 ### Shell Script ###
 
-./HTSeqcount2fpkmtpm PCGP_countfile.list 101 PCGP_903
+./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
 
 #######################
 
-# PCGP_countfile.list is the list of htseqcount output count file location, e.g.
-SJACT001_D_count.txt
-SJACT002_D_count.txt
+# RHB_countfiles_example.lst PCGP_countfile.list is the list of htseqcount output count file location, e.g.
+SJRHB003_D_count.txt SJRHB004_D_count.txt SJRHB005_D_count.txt
  
-#PCGP_905 is the prefix of output. 3 output:
-#PCGP_903-summary.txt  PCGP_903_FPKM_final.txt  PCGP_903_TPM_final.txt
+#RHB is the prefix of output. 3 output:
+#RHB-summary.txt  RHB_FPKM_final.txt  RHB_TPM_final.txt
