@@ -1,0 +1,5 @@
+Mapping was performed using two-star mapping.
+
+We have included a shell script for downloading all the necessary references.
+
+We have also included an example command for the mapping based on STAR version 
