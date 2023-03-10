@@ -1,0 +1,1 @@
+execute step1_merge_solid_brain_annotation.sh to calculate a merged score
