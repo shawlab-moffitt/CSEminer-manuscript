@@ -22,7 +22,7 @@ Raw RNAseq files can be accessed through https://pecan.stjude.cloud/
 5. summarize result
 6. annotate alternative spliced exons
 
-# Prioritizing exons
+# Annotating the exons (Figure 1
 1. generating the proteomics data reference
 2. generating an IHC staining reference
 3. bone marrow filtering
