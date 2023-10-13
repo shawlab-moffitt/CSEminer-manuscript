@@ -17,13 +17,13 @@ Raw RNAseq files can be accessed through https://pecan.stjude.cloud/
 # Scoring the Exons
 1. downloading all the required files
 2. calculate a summarized exon abundance
-3. calculate a exon enrichment score
+3. calculate an exon enrichment score
 4. perform the initial exon filtering
 5. summarize result
 6. annotate alternative spliced exons
 
 # Annotating the exons (Figure 1
-1. generating the proteomics data reference
-2. generating an IHC staining reference
-3. bone marrow filtering
-4. filter then prioritize candidates as Tier 1 and Tier 2
+1. Generating the proteomics data reference
+2. Generating an IHC staining reference
+3. Estimating gene-level expression in bone marrow
+4. filter and then prioritize candidates as Tier 1 and Tier 2
