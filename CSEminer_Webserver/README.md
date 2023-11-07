@@ -1,7 +1,8 @@
 
-CSE-miner attempts to prioritize highly expressed protein-coding exons as targets for antibody/CAR-based therapy.
+CSE-miner 
+Provides a repository of highly expressed protein-coding exons as targets for antibody/CAR-based therapy.
 
-*Table View*
+**Table View**
 
 ExonID: Exon coordinates on the hg38 genome
 
