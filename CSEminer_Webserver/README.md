@@ -3,6 +3,7 @@
 Provides a repository of highly expressed protein-coding exons as targets for antibody/CAR-based therapy.**
 
 **Table View**
+On the table view, the distribution of exon expression in normal tissues and tumor types can be examined in percentile (middle panel) and quartiles (bottom panel). 
 
 ExonID: Exon coordinates on the hg38 genome
 
