@@ -13,7 +13,8 @@ Provides a repository of highly expressed protein-coding exons as targets for an
 
 
 **Table View**
-On the table view, the distribution of exon expression in normal tissues and tumor types can be examined in percentile (middle panel) and quartiles (bottom panel). 
+The distribution of exon expression in normal tissues and tumor types can be examined in percentile (middle panel) and quartiles (bottom panel). 
+
 
 ExonID: Exon coordinates on the hg38 genome
 
@@ -51,3 +52,10 @@ PanNormalExprScore
 
 WeightedDEScore
    * Weighted score of the differential expression between tumor and normal samples.
+
+** ScatterPlot View **
+The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score grouped based on Tier1 and Tier2 categories.
+<img width="778" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/93fb64a3-653b-4505-a604-b237f10b5e21">
+
+
+
