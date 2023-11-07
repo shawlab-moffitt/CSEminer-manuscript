@@ -10,11 +10,13 @@ Class:
    1. Gene target: gene-level candidates
    2. AS target: alternatively spliced exon target
 GTEx_Normal:
-   List of normal tissue 
+   List of normal tissue with high expression of the exon target.
 TargetDisease:
-   
+   List of diseases that the exon can be used to target.
 ProteinType
+   Annotation of the protein category. ECM - extracellular matrix. 
 Location
+   Major protein localization categories. Matrisome, Surfaceome, and Surfaceome+Matrisome.
 Oncofetal
 PanCancerExprScore
 PanNormalExprScore
