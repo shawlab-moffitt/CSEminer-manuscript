@@ -31,5 +31,9 @@ Oncofetal
    * Confetal gene annotation that is associated with 
    
 PanCancerExprScore
+   * Pan-Cancer Expression calculated based on
+<img width="765" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/94e02e19-badd-4e82-9ffa-49e31a3a27d8">
+
+
 PanNormalExprScore
 WeightedDEScore
