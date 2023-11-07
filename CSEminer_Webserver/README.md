@@ -53,7 +53,7 @@ PanNormalExprScore
 WeightedDEScore
    * Weighted score of the differential expression between tumor and normal samples.
 
-** ScatterPlot View **
+**ScatterPlot View**
 The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score grouped based on Tier1 and Tier2 categories.
 <img width="778" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/93fb64a3-653b-4505-a604-b237f10b5e21">
 
