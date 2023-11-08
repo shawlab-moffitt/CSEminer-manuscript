@@ -56,6 +56,11 @@ The distribution of exon expression in normal tissues and tumor types can be exa
    * Weighted score of the differential expression between tumor and normal samples.
 
 ---
+# Normalized Expression Heatmap of Exon Target 
+## Provides the normalized expression value of the 157 exon targets. User can toggle between Tier1 and Tier2 target for visualization.
+<img width="906" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/2078434e-06c6-412f-8ce1-78d7230b86cb">
+
+---
 # ScatterPlot View
 The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score grouped based on Tier1 and Tier2 categories.
 <img width="778" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/93fb64a3-653b-4505-a604-b237f10b5e21">
