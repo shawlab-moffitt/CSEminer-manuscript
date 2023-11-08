@@ -17,42 +17,42 @@ The distribution of exon expression in normal tissues and tumor types can be exa
 
 <img width="834" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/6b0692e9-6fdc-4344-959d-3a03432c0c2f">
 
+## Additional information about the columns: ##
+### ExonID: Exon coordinates on the hg38 genome
 
-## ExonID: Exon coordinates on the hg38 genome
+### GeneName: Gene Symbol
 
-## GeneName: Gene Symbol
-
-## CandidateCategory: 
+### CandidateCategory: 
    * Tier1 candidates: high-priority candidates with limited expression in normal samples.
    * Tier2 candidates: candidates with expression in key normal tissues.
       
-## Class: 
+### Class: 
    1. Gene target: gene-level candidates
    2. AS target: alternatively spliced exon target
       
-## GTEx_Normal:
+### GTEx_Normal:
    * List of normal tissue with high expression of the exon target.
 
-## TargetDisease:
+### TargetDisease:
    * List of diseases that the exon can be used to target.
    
-## ProteinType
+### ProteinType
    * Annotation of the protein category. ECM - extracellular matrix. 
    
-## Location
+### Location
    * Major protein localization categories. Matrisome, Surfaceome, and Surfaceome+Matrisome.
    
-## Oncofetal
+### Oncofetal
    * Confetal gene annotation that is associated with 
    
-## PanCancerExprScore
+### PanCancerExprScore
    * Pan-Cancer Expression calculated based on a binned score (see figure below). 
 <img width="761" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/28517151-4e2f-4ca1-88ef-769c21655fe4">
 
-## PanNormalExprScore
+### PanNormalExprScore
    * Pan-normal Expression.
 
-## WeightedDEScore
+### WeightedDEScore
    * Weighted score of the differential expression between tumor and normal samples.
 
 # ScatterPlot View
