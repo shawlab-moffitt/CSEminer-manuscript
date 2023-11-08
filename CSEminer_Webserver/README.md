@@ -55,15 +55,17 @@ The distribution of exon expression in normal tissues and tumor types can be exa
 ### WeightedDEScore
    * Weighted score of the differential expression between tumor and normal samples.
 
-
+---
 # ScatterPlot View
 The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score grouped based on Tier1 and Tier2 categories.
 <img width="778" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/93fb64a3-653b-4505-a604-b237f10b5e21">
 
+---
 # Gene View
 Gene view provides the exon candidate in the genome.
 <img width="1580" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/872bdd28-6d31-45cc-9cd5-6540d7b137a1">
 
+---
 # Heatmap View
 Each column represents an exon. Heat represent the relative expression of that exon in a disease or tissue.
 <img width="1444" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/a0084605-1e6f-4ce2-873b-826588510fd4">
