@@ -14,6 +14,7 @@
 
 # Table View
 The distribution of exon expression in normal tissues and tumor types can be examined in percentile (middle panel) and quartiles (bottom panel). 
+
 <img width="834" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/6b0692e9-6fdc-4344-959d-3a03432c0c2f">
 
 
