@@ -72,8 +72,7 @@ The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score 
 ---
 # Gene View
 Gene view provides the exon candidate in the genome.
-<img width="1000" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/f4984c9f-0df6-4254-9b6c-26033aef15a9">
-
+<img width="1004" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/2f1739a4-2777-416f-ab5a-496d86dd2949">
 
 ---
 # Heatmap View
