@@ -67,7 +67,7 @@ The distribution of exon expression in normal tissues and tumor types can be exa
 ---
 # ScatterPlot View
 The scatter plot shows the Pan-Cancer Expression and Pan-NormalExpression Score grouped based on Tier1 and Tier2 categories.
-<img width="778" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/93fb64a3-653b-4505-a604-b237f10b5e21">
+<img width="888" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/53031ad4-23b6-4784-ba89-09adc2ed65dd">
 
 ---
 # Gene View
