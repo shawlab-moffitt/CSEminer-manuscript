@@ -77,7 +77,8 @@ Gene view provides the exon candidate in the genome.
 ---
 # Heatmap View
 Each column represents an exon. Heat represent the relative expression of that exon in a disease or tissue.
-<img width="1444" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/a0084605-1e6f-4ce2-873b-826588510fd4">
+<img width="1008" alt="image" src="https://github.com/shawlab-moffitt/CSEminer-manuscript/assets/89986836/7faef4ba-910b-473b-bce9-b5eed8ceda15">
+
 
 
 
