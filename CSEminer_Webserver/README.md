@@ -11,7 +11,7 @@
 | 3 Gene View | Genome-level visualization of prioritized exon targets |
 | 4 Heatmap View | Heatmap visualization of exon expression |
 
-
+--
 # Table View
 The distribution of exon expression in normal tissues and tumor types can be examined in percentile (middle panel) and quartiles (bottom panel). 
 
