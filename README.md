@@ -23,8 +23,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 5. summarize result
 6. annotate alternative spliced exons
 
-# Annotating the exons (Figure 1
+# Annotating the exons (Figure 1)
 1. Generating the proteomics data reference
-2. Generating an IHC staining reference
-3. Estimating gene-level expression in bone marrow
-4. filter and then prioritize candidates as Tier 1 and Tier 2
+2. Estimating gene-level expression in bone marrow
+3. filter and then prioritize candidates as Tier 1 and Tier 2
