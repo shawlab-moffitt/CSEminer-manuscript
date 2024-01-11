@@ -24,4 +24,4 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 # Annotating the exons (Figure 1)
 1. Generating the proteomics data reference
 2. Estimating gene-level expression in bone marrow
-3. filter and then prioritize candidates as Tier 1 and Tier 2
+3. Filtering and prioritizing candidates as Tier 1 and Tier 2
