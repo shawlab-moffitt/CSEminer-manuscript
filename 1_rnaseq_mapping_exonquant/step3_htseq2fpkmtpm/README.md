@@ -1,4 +1,5 @@
-# Step 3 Convert HTSEQ counts to FPKM table
+# Step 3 Convert HTSEQ counts to FPKM and TPM files
+This steps performs the summary of exon counts to FPKM and TPM tables.
 ## Installation Notes:
 ### Shell Command ###
 
