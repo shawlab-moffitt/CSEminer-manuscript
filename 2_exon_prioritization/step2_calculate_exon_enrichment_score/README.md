@@ -1,4 +1,4 @@
-# Step 2.2 Annotate the cancer enrichment score
+# 2.2 Annotate the cancer enrichment score
 ## Procedure to download the required files.
 The user can run step1_setup.sh to copy over the data downloaded from step 2.1
 ```
