@@ -1,6 +1,6 @@
 # Step 1 RNAseq mapping
 
-The following command was used to perform RNAseq mapping.
+The following command was used to perform RNAseq mapping. 
 | Required programs | Version number |
 | --- | --- |
 | STAR | 2.7.1a |
