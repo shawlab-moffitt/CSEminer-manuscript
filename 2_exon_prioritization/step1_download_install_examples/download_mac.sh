@@ -1,5 +1,5 @@
 
-# downloading all the necessary files
+# downloading of all files
 
 mkdir input_and_references
 
