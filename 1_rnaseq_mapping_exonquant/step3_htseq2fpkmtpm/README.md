@@ -1,4 +1,5 @@
-# Installation Notes:
+# Step 3 Convert HTSEQ counts to FPKM table
+## Installation Notes:
 ### Shell Command ###
 
 g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
