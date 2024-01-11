@@ -1,5 +1,5 @@
-# Step 1 prepping the user environment
-Procedure to download all the required files.
+# Step 2.1 prepping the user environment
+Procedure to download the required files.
 The user can run step1_setup.sh, which should download all the necessary files for performing exon prioritization.
 
 ## The following preprocessed files and programs are available 
