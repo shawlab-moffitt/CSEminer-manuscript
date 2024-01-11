@@ -6,7 +6,7 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 
 ############
 
-Execution Example:
+## Execution Example
 ### Shell Script ###
 ```
 ./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
