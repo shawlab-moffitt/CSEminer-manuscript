@@ -19,5 +19,9 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 SJRHB003_D_count.txt SJRHB004_D_count.txt SJRHB005_D_count.txt
 ```
 ### Example Output ###
-RHB-summary.txt  RHB_FPKM_final.txt  RHB_TPM_final.txt
+```
+RHB-summary.txt
+RHB_FPKM_final.txt
+RHB_TPM_final.txt
 
+```
