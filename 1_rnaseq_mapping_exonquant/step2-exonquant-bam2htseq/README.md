@@ -1,4 +1,4 @@
-# # Step 1.2 Exon quantification 
+# Step 1.2 Exon quantification 
 
 Exon quantification was performed through htseq.
 The following input files are necessary.
