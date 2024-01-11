@@ -4,7 +4,7 @@
 ## 2.3. Merge Exon Scores from Solid and Brain Tumors.
 ## 2.4. Annotate Alternative Spliced Exons.
 
-# Step 2.1 prepping the user environment
+# 2.1 setting up the user environment
 Procedure to download the required files.
 The user can run step1_setup.sh, which should download all the necessary files for performing exon prioritization.
 ```
@@ -28,3 +28,17 @@ sh step1_setup.sh
 | extra_cellular_matrix.tar.gz | https://www.dropbox.com/s/av9krxya1vtat0t/extra_cellular_matrix.tar.gz?dl=1 | Extra cellular matrix genes |
 | therapeutic_targets.tar.gz | https://www.dropbox.com/s/xbycxx36lylocb3/therapeutic_targets.tar.gz?dl=1 | Genes with annotated therapeutic targets |
 | surfaceome.tar.gz | https://www.dropbox.com/s/3x4yepb2ickxyzy/surfaceome.tar.gz?dl=1 | surfaceome gene annotation and their databases |
+
+# 2.2 Annotate the cancer enrichment score
+## Procedure to download the required files.
+The user can run step1_setup.sh to copy over the data downloaded from step 2.1
+```
+sh step1_copy_parameter_files.sh
+
+```
+
+## Run the following command to generate the scripts
+```
+sh step2_generate_and_run_script.sh
+```
+## Expected Output
