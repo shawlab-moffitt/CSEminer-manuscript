@@ -6,7 +6,10 @@ The custom Java program checks whether the exon marked as differentially express
 | gencode.v35.primary_assembly.annotation.gtf | https://www.dropbox.com/s/bc0fii0jsccwpie/gencode.v35.primary_assembly.annotation.gtf?dl=1 | GTF file containing the exon-transcripts |
 
 ```
+sh step2_exon_prioritization_example.sh
 
+# the shell script performs the following command
 drppm -CSEminerPrioritizationScript Comprehensive_Exon_Annotations_20220217.txt gencode.v35.primary_assembly.annotation.gtf Output_Exon_AS_Annotations.txt Output_Exon_Annotations.txt
 ```
-Next, the exons are then manually reviewed to identify alternatively spliced exons. 
+
+Finally, the exons are then manually reviewed to identify alternatively spliced exons. 
