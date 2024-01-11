@@ -1,7 +1,9 @@
 # Step 1 perform RNAseq mapping
 
+The user can perform RNAseq mapping using the following command.
+
 ```
-The user can perform RNAseq mapping using the following command
+
 
 STAR --readFilesIn ${ALL_READ1} ${ALL_READ2} \
      --runThreadN 1 \
