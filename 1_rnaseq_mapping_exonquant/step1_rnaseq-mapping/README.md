@@ -5,6 +5,16 @@ The following command was used to perform RNAseq mapping.
 | --- | --- |
 | STAR | 2.7.1a |
 
+The following include required input files
+| Inputs | note |
+| --- | --- |
+| fastq files | place the paired files in ${ALL_READ1} and ${ALL_READ2} |
+
+The following references are necessary for the following parameters
+| Parameters | note |
+| --- | --- |
+| User specified STAR index folder | specify folder path in --genomeDIR |
+
 ```
 
 
