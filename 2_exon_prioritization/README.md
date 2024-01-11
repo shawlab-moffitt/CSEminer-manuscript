@@ -29,7 +29,7 @@ sh step1_setup.sh
 | therapeutic_targets.tar.gz | https://www.dropbox.com/s/xbycxx36lylocb3/therapeutic_targets.tar.gz?dl=1 | Genes with annotated therapeutic targets |
 | surfaceome.tar.gz | https://www.dropbox.com/s/3x4yepb2ickxyzy/surfaceome.tar.gz?dl=1 | surfaceome gene annotation and their databases |
 
-# 2.2 Annotate the cancer enrichment score
+# 2.2 Calculating the cancer enrichment score
 ## Procedure to download the required files.
 The user can run step1_setup.sh to copy over the data downloaded from step 2.1
 ```
