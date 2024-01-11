@@ -2,7 +2,7 @@
 ## 2.1. Downloading of the references and input files.
 ## 2.2. Calculate the Exon Enrichment Scores.
 ## 2.3. Merge Exon Scores from Solid and Brain Tumors.
-## 2.4. Annotate Alternative Spliced Exons.
+## 2.4. Annotate Putatively Spliced Exons.
 
 # 2.1 Setting up the user environment
 Procedure to download the required files.
