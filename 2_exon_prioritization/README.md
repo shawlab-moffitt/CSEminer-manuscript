@@ -48,5 +48,20 @@ The following command will run a custom script to merge all the exon scores toge
 sh step1_merge_solid_brain_annotation.sh
 # drppm -CSIMinerManuscriptCombineSolidBrainResult [file 1 Solid Tumor Only] [file 2 Brain Tumor Only] [file 3 All] [Output Combined exon score file]
 ```
+# 2.4. Annotate putatively spliced exons
+The custom Java program checks whether the exon marked as differentially expressed and enriched in the tumor is an exon that is part of an alternative transcript.
+
+| Required Files | URL | Note |
+| | |
+| gencode.v35.primary_assembly.annotation.gtf | https://www.dropbox.com/s/bc0fii0jsccwpie/gencode.v35.primary_assembly.annotation.gtf?dl=1 | GTF file containing the exon-transcripts |
+
+```
+sh step2_exon_prioritization_example.sh
+
+# the shell script performs the following command
+drppm -CSEminerPrioritizationScript Comprehensive_Exon_Annotations_20220217.txt gencode.v35.primary_assembly.annotation.gtf Output_Exon_AS_Annotations.txt Output_Exon_Annotations.txt
+```
+
+Finally, the exons are then manually reviewed to identify alternatively spliced exons. 
 
 
