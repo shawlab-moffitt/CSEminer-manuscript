@@ -4,7 +4,7 @@
 ## 2.3. Merge Exon Scores from Solid and Brain Tumors.
 ## 2.4. Annotate Alternative Spliced Exons.
 
-# 2.1 setting up the user environment
+# 2.1 Setting up the user environment
 Procedure to download the required files.
 The user can run step1_setup.sh, which should download all the necessary files for performing exon prioritization.
 ```
