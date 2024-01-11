@@ -10,9 +10,8 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 
 # Process raw sequencing files:
 1. mapping,
-2. exon-quantification
-3. exon-normalization
-4. generation of exon summary. 
+2. exon-quantification to counts
+3. exon-normalization and summary. 
 
 # Scoring the Exons
 1. downloading all the required files
