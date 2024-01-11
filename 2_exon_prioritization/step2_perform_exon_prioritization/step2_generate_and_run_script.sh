@@ -1,5 +1,0 @@
-drppm -CSIMinerPipeline CSI-Miner_BrainTumorOnly.param Brain_CART_Candidate_Output Brain_CART_Candidate.sh
-drppm -CSIMinerPipeline CSI-Miner_SolidTumorOnly.param Solid_CART_Candidate_Output Solid_CART_Candidate.sh
-
-sh Brain_CART_Candidate.sh
-sh Solid_CART_Candidate.sh

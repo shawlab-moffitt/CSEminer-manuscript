@@ -1,2 +1,0 @@
-step 1. copy the parameter filter generated from step1_download_install_examples
-
