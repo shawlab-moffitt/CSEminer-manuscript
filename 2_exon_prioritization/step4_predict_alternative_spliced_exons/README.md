@@ -1,4 +1,4 @@
-# Annotate putatively spliced exons
+# 2.4. Annotate putatively spliced exons
 The custom Java program checks whether the exon marked as differentially expressed and enriched in the tumor is an exon that is part of an alternative transcript.
 
 | Required Files | URL | Note |
