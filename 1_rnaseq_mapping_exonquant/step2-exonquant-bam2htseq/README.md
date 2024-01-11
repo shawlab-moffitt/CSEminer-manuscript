@@ -1,4 +1,4 @@
-# Perform Exon quantification 
+# # Step 1.2 Exon quantification 
 
 We performed exon quantification through htseq 
  gencode.v31.primary_assembly.exon.novelexon.gtf -kL https://www.dropbox.com/s/visytv8td3ft7hk/gencode.v31.primary_assembly.exon.novelexon.gtf?dl=0
