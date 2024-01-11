@@ -4,7 +4,9 @@
 
 g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 
-############
+| Required Input Files | Example Files | Note |
+| --- | --- | --- |
+| A list of htseq count files | RHB_countfiles_example.lst | NA |
 
 ## Execution Example
 ### Shell Script ###
