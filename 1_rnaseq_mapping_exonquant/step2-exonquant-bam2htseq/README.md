@@ -12,7 +12,7 @@ The following reference file is needed.
 | --- | --- |
 | gencode.v31.primary_assembly.exon.novelexon.gtf | https://www.dropbox.com/s/visytv8td3ft7hk/gencode.v31.primary_assembly.exon.novelexon.gtf?dl=0 |
 
-The following is the example command for the htseq quantification
+The following command was run 
 ```
 htseq-count -f bam -a 0 -r pos -s no -m union -t exon --nonunique all [bam file] [exon gtf file] > [output exon count file]
 ```
