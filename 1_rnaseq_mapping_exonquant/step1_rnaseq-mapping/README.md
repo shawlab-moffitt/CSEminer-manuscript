@@ -1,4 +1,4 @@
-# Step 1 RNAseq mapping
+# Step 1.1 RNAseq mapping
 
 The following command was used to perform RNAseq mapping. 
 | Required programs | Version number |
