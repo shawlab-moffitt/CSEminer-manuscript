@@ -16,13 +16,17 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 ```
 ### Other Notes ###
 ```
-# RHB_countfiles_example.lst PCGP_countfile.list is the list of htseqcount output count file location, e.g.
-SJRHB003_D_count.txt SJRHB004_D_count.txt SJRHB005_D_count.txt
+# RHB_countfiles_example.lst is the list of htseqcount output count file location, e.g.
+/your path/SJRHB003_D_count.txt
+/your path/SJRHB004_D_count.txt
+/your path/SJRHB005_D_count.txt
+# 101 is the read length
+# RHB is the prefix for output files
 ```
 ### Example Output ###
 ```
-RHB-summary.txt
-RHB_FPKM_final.txt
-RHB_TPM_final.txt
+RHB-summary.txt # summary table, each row is a sample, columns includes features from htseq-count output, i.e. "Sample","Mapped","no_feature","ambiguous","too_low_aQual","not_aligned","alignment_not_unique"
+RHB_FPKM_final.txt # FPKM matrix
+RHB_TPM_final.txt # TPM matrix
 
 ```
