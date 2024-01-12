@@ -7,7 +7,7 @@ Here we developed a pipeline to identify cancer specific exon.
 # Downloading the raw sequencing files:
 The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Jude Cloud Genomics Platform (https://platform.stjude.cloud/data/cohorts/pediatric-cancer) under the accessions SJC-DS-1001, SJC-DS-1003, SJC-DS-1004 and SJC-DS-1007. NCI TARGET data are available in dbGaP under accession phs000218.
 
-# Configuration Requirements
+# User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
 | --- | --- | --- | --- | 
 | JAVA | > J2SE-1.5 | https://www.oracle.com/java/technologies/downloads/ | Required to execute the DRPPM jar program |
