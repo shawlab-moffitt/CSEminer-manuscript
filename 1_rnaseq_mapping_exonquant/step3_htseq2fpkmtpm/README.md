@@ -32,9 +32,6 @@ https://raw.githubusercontent.com/shawlab-moffitt/CSEminer-manuscript/main/1_rna
 '$path to the work directory$'/ExampleFiles/SJRHB005_D_count.txt
 ```
 
-
-
-
 ### Example Output ###
 ```
 RHB-summary.txt # summary table, each row is a sample, columns includes features from htseq-count output, i.e. "Sample","Mapped","no_feature","ambiguous","too_low_aQual","not_aligned","alignment_not_unique"
