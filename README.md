@@ -19,6 +19,18 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
   1. RNAseq mapping using STAR
   2. Exon quantification with HTSEQ
   3. Code to normalize exons to FPKM
+# Scoring the Exons
+  1. downloading all the required files
+  2. calculate a summarized exon abundance
+  3. calculate an exon enrichment score
+  4. perform the initial exon filtering
+  5. summarize result
+  6. annotate alternative spliced exons
+
+# Annotating the exons (Figure 1)
+  1. Generating the proteomics data reference
+  2. Estimating gene-level expression in bone marrow
+  3. Filtering and prioritizing candidates as Tier 1 and Tier 2
 
 # 1.1 RNAseq mapping
 
@@ -127,16 +139,5 @@ RHB_TPM_final.txt
 
 ```
 
-# Scoring the Exons
-1. downloading all the required files
-2. calculate a summarized exon abundance
-3. calculate an exon enrichment score
-4. perform the initial exon filtering
-5. summarize result
-6. annotate alternative spliced exons
 
-# Annotating the exons (Figure 1)
-1. Generating the proteomics data reference
-2. Estimating gene-level expression in bone marrow
-3. Filtering and prioritizing candidates as Tier 1 and Tier 2
 
