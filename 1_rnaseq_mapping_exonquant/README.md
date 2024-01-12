@@ -3,6 +3,14 @@
   2. Exon quantification with HTSEQ
   3. Code to normalize exons to FPKM
 
+# User Configuration Requirements
+| Required Packages | Version | Link to package | Notes |
+| --- | --- | --- | --- | 
+| STAR | 2.7.1a | https://github.com/alexdobin/STAR | Required for step 1 mapping |
+| Python | > 3.5 | https://www.python.org/downloads/ | Required for the htseq-count command |
+| HTSEQ | 2.0.5 | https://pypi.org/project/HTSeq/ | Required to perform the quantification |
+| GCC compiler | > 9 | https://gcc.gnu.org/ | Required for step 1.3 to normalize exon counts to FPKM |
+
 # Step 1.1 RNAseq mapping
 
 The following command was used to perform RNAseq mapping. 
