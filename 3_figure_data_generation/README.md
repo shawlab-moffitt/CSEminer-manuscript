@@ -1,3 +1,8 @@
-Code and files used to generate figures for the manuscript.
+# Procedure for summarizing the data used in Figure 1 and data highlighted in cseminer.stjude.org
+  1. Download the pipeline data.
+  2. Download the DRPPM jar package
+  3. Execute the summarization script that is available [here](https://github.com/gatechatl/DRPPM/blob/master/src/rnaseq/splicing/cseminer/prioritization/CSEminerFigure1ExonClassificationFullPipelineExecMode.java)
 
-The input files can be downloaded [here](https://www.dropbox.com/scl/fi/i2gj10t3k53guwphaquv8/pipeline_input_files.zip?rlkey=hvhckdesv8you96vv9lyhzf34&dl=0)
+# User Configuration Requirements
+| Required Packages | Version | Link to package | Notes |
+| --- | --- | --- | --- | 
