@@ -117,7 +117,7 @@ The following command was run
 htseq-count -f bam -a 0 -r pos -s no -m union -t exon --nonunique all [bam file] [exon gtf file] > [output exon count file]
 ```
 
-# Step 1.3 Convert HTSEQ counts to FPKM and TPM files
+# 1.3 Convert HTSEQ counts to FPKM and TPM files
 This step performs the summary of exon counts to FPKM and TPM tables.
 
 ## Required Programs 
