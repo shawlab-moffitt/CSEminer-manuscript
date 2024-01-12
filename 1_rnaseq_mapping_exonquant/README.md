@@ -22,7 +22,6 @@ The following references are necessary for the following parameters
 
 ```
 
-
 STAR --readFilesIn ${ALL_READ1} ${ALL_READ2} \
      --runThreadN 1 \
      --genomeDir [User specified STAR Index folder] \
