@@ -15,22 +15,22 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 | Python | > 3.5 | https://www.python.org/downloads/ | Required for htseq |
 | HTSEQ | 2.0.5 | https://pypi.org/project/HTSeq/ | Required to perform the quantification |
 
-# Process raw sequencing files
-  1. RNAseq mapping using STAR
-  2. Exon quantification with HTSEQ
-  3. Code to normalize exons to FPKM
-# Scoring the Exons
-  1. downloading all the required files
-  2. calculate a summarized exon abundance
-  3. calculate an exon enrichment score
-  4. perform the initial exon filtering
-  5. summarize result
-  6. annotate alternative spliced exons
+# 1. Process raw sequencing files
+  1.1. RNAseq mapping using STAR
+  1.2. Exon quantification with HTSEQ
+  1.3. Code to normalize exons to FPKM
+# 2. Scoring the Exons
+  2.1. downloading all the required files
+  2.2a. calculate a summarized exon abundance
+  2.2b. calculate an exon enrichment score
+  2.2c. perform the initial exon filtering
+  2.3. summarize result
+  2.4. annotate alternative spliced exons
 
-# Annotating the exons (Figure 1)
-  1. Generating the proteomics data reference
-  2. Estimating gene-level expression in bone marrow
-  3. Filtering and prioritizing candidates as Tier 1 and Tier 2
+# 3. Annotating the exons (Figure 1)
+  3.1. Generating the proteomics data reference
+  3.2. Estimating gene-level expression in bone marrow
+  3.3. Filtering and prioritizing candidates as Tier 1 and Tier 2
 
 # 1.1 RNAseq mapping
 
