@@ -1,4 +1,5 @@
-# 3. Procedure for summarizing the data used in Figure 1, Supplementary Tables, and data highlighted in cseminer.stjude.org
+# 3. Procedure for summarizing the data 
+The program will summarize counts displayed in Figure 1 as well as generate supplementary tables highlighted in cseminer.stjude.org
   1. Download the pipeline data.
   2. Download the DRPPM jar package
   3. Execute the summarization script that is available [here](https://github.com/gatechatl/DRPPM/blob/master/src/rnaseq/splicing/cseminer/prioritization/CSEminerFigure1ExonClassificationFullPipelineExecMode.java)
