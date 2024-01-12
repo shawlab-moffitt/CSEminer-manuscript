@@ -118,7 +118,7 @@ htseq-count -f bam -a 0 -r pos -s no -m union -t exon --nonunique all [bam file]
 ```
 
 # Step 1.3 Convert HTSEQ counts to FPKM and TPM files
-This steps performs the summary of exon counts to FPKM and TPM tables.
+This step performs the summary of exon counts to FPKM and TPM tables.
 
 ## Required Programs 
 | Required Packages | Version | 
@@ -142,9 +142,8 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 # RHB is the prefix for output files
 ./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
 ```
-### Example for the RHB_countfiles_example.lst ###
-# See example 
-https://raw.githubusercontent.com/shawlab-moffitt/CSEminer-manuscript/main/1_rnaseq_mapping_exonquant/step3_htseq2fpkmtpm/ExampleFiles/SJRHB003_D_count.txt
+### RHB_countfiles_example.lst Example ###
+# https://raw.githubusercontent.com/shawlab-moffitt/CSEminer-manuscript/main/1_rnaseq_mapping_exonquant/step3_htseq2fpkmtpm/ExampleFiles/SJRHB003_D_count.txt
 ```
 '$path to the work directory$'/ExampleFiles/SJRHB003_D_count.txt
 '$path to the work directory$'/ExampleFiles/SJRHB004_D_count.txt
