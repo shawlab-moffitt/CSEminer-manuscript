@@ -6,7 +6,6 @@ The use of T cells expressing chimeric antigen receptors (CARs) in immunotherapy
 # Contact
 Please contact Liqing Tian Liqing.Tian@STJUDE.ORG or Timothy Shaw timothy.shaw@moffitt.org for questions related to the code.
 
-Here we developed a pipeline to identify cancer specific exon.
 # Downloading the raw sequencing files:
 The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Jude Cloud Genomics Platform (https://platform.stjude.cloud/data/cohorts/pediatric-cancer) under the accessions SJC-DS-1001, SJC-DS-1003, SJC-DS-1004 and SJC-DS-1007. NCI TARGET data are available in dbGaP under accession phs000218.
 
