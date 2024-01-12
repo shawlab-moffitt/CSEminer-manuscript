@@ -31,7 +31,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
   2.3. summarize result
   2.4. annotate alternative spliced exons
 
-# 3. Annotating the exons (Figure 1) (# 1.3 Convert HTSEQ counts to FPKM and TPM files)
+# 3. Annotating the exons (Figure 1) 
   3.1. Generating the proteomics data reference
   3.2. Estimating gene-level expression in bone marrow
   3.3. Filtering and prioritizing candidates as Tier 1 and Tier 2
