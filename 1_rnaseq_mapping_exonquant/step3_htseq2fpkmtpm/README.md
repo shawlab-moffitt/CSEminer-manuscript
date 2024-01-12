@@ -7,7 +7,7 @@ This steps performs the summary of exon counts to FPKM and TPM tables.
 | GCC compiler | 9.1.0 |
 
 ## Installation Notes:
-### Shell Command ###
+### Shell Command for Compilation ###
 ```
 g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 ```
@@ -16,13 +16,13 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 | A list of htseq count files | RHB_countfiles_example.lst | NA |
 
 ## Execution Example
-### Shell Script ###
+### Shell Script to generate a FPKM table ###
 ```
 ./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
 ```
 ### Other Notes ###
 ```
-# RHB_countfiles_example.lst is the list of htseqcount output count file location, e.g.
+# RHB_countfiles_example.lst contains a list of htseqcount output count file location, e.g.
 '$path to the work directory$'/ExampleFiles/SJRHB003_D_count.txt
 '$path to the work directory$'/ExampleFiles/SJRHB004_D_count.txt
 '$path to the work directory$'/ExampleFiles/SJRHB005_D_count.txt
