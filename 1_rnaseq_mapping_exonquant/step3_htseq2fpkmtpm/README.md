@@ -8,9 +8,9 @@ This steps performs the summary of exon counts to FPKM and TPM tables.
 
 ## Installation Notes:
 ### Shell Command ###
-
+```
 g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
-
+```
 | Required Input Files | Example Files | Note |
 | --- | --- | --- |
 | A list of htseq count files | RHB_countfiles_example.lst | NA |
