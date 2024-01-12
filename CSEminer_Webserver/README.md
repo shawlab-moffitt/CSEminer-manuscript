@@ -1,5 +1,5 @@
 
-# CSE-miner
+# CSE-miner Webserver
 ## Provides a repository of highly expressed protein-coding exons as targets for antibody/CAR-based therapy.
 
 | Pages | Features |
