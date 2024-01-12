@@ -210,7 +210,7 @@ sh step1_merge_solid_brain_annotation.sh
 The custom Java program checks whether the exon marked as differentially expressed and enriched in the tumor is an exon that is part of an alternative transcript.
 
 | Required Files | URL | Note |
-| | |
+| --- | --- | --- |
 | gencode.v35.primary_assembly.annotation.gtf | https://www.dropbox.com/s/bc0fii0jsccwpie/gencode.v35.primary_assembly.annotation.gtf?dl=1 | GTF file containing the exon-transcripts |
 
 ```
