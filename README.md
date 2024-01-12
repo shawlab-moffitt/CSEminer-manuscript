@@ -133,11 +133,9 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 ```
 ./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
 ```
-### Other Notes ###
-```
-# RHB_countfiles_example.lst PCGP_countfile.list is the list of htseqcount output count file location, e.g.
-SJRHB003_D_count.txt SJRHB004_D_count.txt SJRHB005_D_count.txt
-```
+### Other notes ###
+RHB_countfiles_example.lst PCGP_countfile.list is the list of htseq-count output count file location, e.g. SJRHB003_D_count.txt SJRHB004_D_count.txt SJRHB005_D_count.txt
+
 ### Example Output ###
 ```
 RHB-summary.txt
@@ -146,7 +144,7 @@ RHB_TPM_final.txt
 
 ```
 # 2. Custom Procedure to Perform Exon Scoring and Annotation
-Contains scripts for 1) Downloading of the references and input files. 2) Calculate the Exon Enrichment Scores. 3) Merge Exon Scores from Solid and Brain Tumors. 4) Annotate Putatively Spliced Exons.
+Procedure 2 contains scripts for 1) Downloading the references and input files. 2) Calculate the Exon Enrichment Scores. 3) Merge Exon Scores from Solid and Brain Tumors. 4) Annotate Putatively Spliced Exons.
 
 # 2.1 Setting up the user environment
 Procedure to download the required files.
