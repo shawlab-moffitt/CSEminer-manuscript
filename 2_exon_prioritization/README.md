@@ -8,7 +8,7 @@
 | Required Packages | Version | Link to package | Notes |
 | --- | --- | --- | --- | 
 | JAVA | > J2SE-1.5 | https://www.oracle.com/java/technologies/downloads/ | Required to execute the DRPPM jar program |
-| DRPPM Package DRPPM_20220511A_newmachine.jar | https://github.com/gatechatl/DRPPM/raw/master/export/DRPPM_20220511A_newmachine.jar | The drppm java library contains the code for execution|
+| DRPPM Package | 20220511A | https://github.com/gatechatl/DRPPM/raw/master/export/DRPPM_20220511A_newmachine.jar | The library wraps the code for execution |
 
 # 2.1 Setting up the user environment
 Procedure to download the required files.
