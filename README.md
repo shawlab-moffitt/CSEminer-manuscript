@@ -14,6 +14,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 | STAR | 2.7.1a | https://github.com/alexdobin/STAR | Required for step 1 mapping |
 | Python | > 3.5 | https://www.python.org/downloads/ | Required for htseq |
 | HTSEQ | 2.0.5 | https://pypi.org/project/HTSeq/ | Required to perform the quantification |
+| GCC compiler | > 9 | https://gcc.gnu.org/ | Required for step 1.3 to normalize exon counts to FPKM |
 
 # 1. Process raw sequencing files
   1.1. RNAseq mapping using STAR
