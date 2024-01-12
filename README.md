@@ -32,6 +32,10 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
   3.2. Estimating gene-level expression in bone marrow
   3.3. Filtering and prioritizing candidates as Tier 1 and Tier 2
 
+# 1 Procedure for RNAseq mapping and exon quantification
+The procedure provides the process for performing the mapping and quantification of the exons. 1) RNAseq mapping using STAR. 2) Exon quantification with HTSEQ.
+3) Normalize exons to FPKM.
+
 # 1.1 RNAseq mapping
 
 The following command was used to perform RNAseq mapping. 
