@@ -23,9 +23,9 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 ### Other Notes ###
 ```
 # RHB_countfiles_example.lst is the list of htseqcount output count file location, e.g.
-/your path/SJRHB003_D_count.txt
-/your path/SJRHB004_D_count.txt
-/your path/SJRHB005_D_count.txt
+'$path to the work directory$'/ExampleFiles/SJRHB003_D_count.txt
+'$path to the work directory$'/ExampleFiles/SJRHB004_D_count.txt
+'$path to the work directory$'/ExampleFiles/SJRHB005_D_count.txt
 # 101 is the read length
 # RHB is the prefix for output files
 ```
