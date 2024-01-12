@@ -2,7 +2,8 @@
 This steps performs the summary of exon counts to FPKM and TPM tables.
 
 ## Required Programs 
-
+| Required Packages | Version | 
+| --- | --- |
 | GCC compiler | 9.1.0 |
 
 ## Installation Notes:
