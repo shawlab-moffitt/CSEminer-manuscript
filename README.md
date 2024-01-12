@@ -18,7 +18,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
 | HTSEQ | 0.11.2 | https://pypi.org/project/HTSeq/ | Required to perform the quantification |
 | GCC compiler | 9.1.0 | https://gcc.gnu.org/ | Required for step 1.3 to normalize exon counts to FPKM |
 
-# 1. Process raw sequencing files [Markdown - Link](# 1 Procedure for RNAseq mapping and exon quantification)
+# 1. Process raw sequencing files (# 1 Procedure for RNAseq mapping and exon quantification)
   1.1. RNAseq mapping using STAR
   1.2. Exon quantification with HTSEQ
   1.3. Code to normalize exons to FPKM
@@ -30,7 +30,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
   2.3. summarize result
   2.4. annotate alternative spliced exons
 
-# 3. Annotating the exons (Figure 1)
+# 3. Annotating the exons (Figure 1) (# 1.3 Convert HTSEQ counts to FPKM and TPM files)
   3.1. Generating the proteomics data reference
   3.2. Estimating gene-level expression in bone marrow
   3.3. Filtering and prioritizing candidates as Tier 1 and Tier 2
