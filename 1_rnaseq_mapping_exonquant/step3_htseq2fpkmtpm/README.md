@@ -1,5 +1,10 @@
 # Step 1.3 Convert HTSEQ counts to FPKM and TPM files
 This steps performs the summary of exon counts to FPKM and TPM tables.
+
+## Required Programs 
+
+| GCC compiler | 9.1.0 |
+
 ## Installation Notes:
 ### Shell Command ###
 
