@@ -144,7 +144,7 @@ g++ HTSeqcount2fpkmtpm.cpp -O3 -o HTSeqcount2fpkmtpm
 ./HTSeqcount2fpkmtpm RHB_countfiles_example.lst 101 RHB
 ```
 ### RHB_countfiles_example.lst Example ###
-# https://raw.githubusercontent.com/shawlab-moffitt/CSEminer-manuscript/main/1_rnaseq_mapping_exonquant/step3_htseq2fpkmtpm/ExampleFiles/SJRHB003_D_count.txt
+# (View the RHB_countfiles_example.lst example) (https://raw.githubusercontent.com/shawlab-moffitt/CSEminer-manuscript/main/1_rnaseq_mapping_exonquant/step3_htseq2fpkmtpm/ExampleFiles/SJRHB003_D_count.txt)
 ```
 '$path to the work directory$'/ExampleFiles/SJRHB003_D_count.txt
 '$path to the work directory$'/ExampleFiles/SJRHB004_D_count.txt
