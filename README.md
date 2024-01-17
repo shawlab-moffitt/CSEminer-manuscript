@@ -23,7 +23,7 @@ The raw RNA-seq data for PCGP and St Jude ClinGen samples are available on St Ju
   1.1. RNAseq mapping using STAR
   1.2. Exon quantification with HTSEQ
   1.3. Code to normalize exons to FPKM
-# 2. Scoring the Exons
+# [2. Scoring the Exons](#2-custom-procedure-to-perform-exon-scoring-and-annotation)
   2.1. downloading all the required files
   2.2a. calculate a summarized exon abundance
   2.2b. calculate an exon enrichment score
