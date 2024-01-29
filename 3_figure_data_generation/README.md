@@ -25,6 +25,9 @@ mv pipeline_input_files CompleteAnnotationPipeline/pipeline_input_files
 
 mkdir OutputFolder
 
+## update the local drppm to make it executable.
+chmod u+x drppm
+
 ## Execute the code
 ./drppm -CSEminerFigure1ExonClassificationFullPipelineExecMode CompleteAnnotationPipeline/ OutputFolder
 ```
