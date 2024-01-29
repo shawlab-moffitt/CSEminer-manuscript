@@ -13,21 +13,20 @@ https://zenodo.org/records/10582220/files/CSEminer_3_figure_data_generation.tar?
 
 ## Shell Script
 ```
-echo 'Building the summary example'
+# Command will build docker image of the summary script.
 docker build . -t cseminer_example
 
-echo 'running the summary exampe'
+# Command will execute docker image of the summary script.
 docker run cseminer_example
 
-echo ''
-echo ''
-echo '# user will need to fill container id based on the container id listed locally on the user's machine
-echo 'docker ps -l'
+# user will need to fill container id based on the container id listed locally on the user's machine
 docker ps -l
-echo 'docker cp [container id]:/app/OutputFolder/ . '
-echo ''
-echo '# to build the docker'
-echo 'docker save -o CSEminer_3_figure_data_generation.tar cseminer_example'
+
+# user should select the container id for cseminer_example
+docker cp [container id]:/app/OutputFolder/ .
+
+# execute the following to build the docker image
+docker save -o CSEminer_3_figure_data_generation.tar cseminer_example
 
 ```
 performs the final summarization, generating the counts and supplementary data tables used in the manuscript.
