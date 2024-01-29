@@ -1,6 +1,6 @@
 # 3. Procedure for summarizing the data 
 The program will summarize counts displayed in Figure 1 as well as generate supplementary tables highlighted in cseminer.stjude.org
-  Execute the summarization script 
+  Executing the summarization script 
 
 ## User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
