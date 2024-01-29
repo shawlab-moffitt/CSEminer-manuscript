@@ -12,10 +12,6 @@ The program will summarize counts displayed in Figure 1 as well as generate supp
 
 ## Shell Script
 ```
-## download the files from dropbox 
-curl --output pipeline_input_files.zip -kL https://www.dropbox.com/scl/fi/cem2argxukr5fqlb49m0k/pipeline_input_files.zip?rlkey=3wzegacn26m0sphz0bnsccu9b&dl=0
-## download the DRPPM library package 
-curl --output DRPPM_20240112A_newmachine.jar -kL https://github.com/gatechatl/DRPPM/raw/master/export/DRPPM_20240112A_newmachine.jar
 ## Unpack the zip files
 mkdir CompleteAnnotationPipeline
 
