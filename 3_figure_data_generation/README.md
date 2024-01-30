@@ -1,8 +1,6 @@
 # 3. Procedure for summarizing the data 
 The program will summarize counts displayed in Figure 1 as well as generate supplementary tables highlighted in cseminer.stjude.org
-  1. Download the pipeline data.
-  2. Download the DRPPM jar package
-  3. Execute the summarization script that is available [here](https://github.com/gatechatl/DRPPM/blob/master/src/rnaseq/splicing/cseminer/prioritization/CSEminerFigure1ExonClassificationFullPipelineExecMode.java)
+  Executing the summarization script 
 
 ## User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
@@ -29,4 +27,12 @@ chmod u+x drppm
 ```
 The program performs the final summarization, generating the counts and supplementary data tables used in the manuscript.
 
+The Output Folder contains the following files
+| Files | Descriptions |
+| --- | --- |
+| CSEminer_CandidateFile.txt | 157 exon candidates | 
+| CSEminer_ScatterPlotFile.txt | Each row represent an exon with scores representing expression in tumor and normal samples |
+| Supplementary_Table1A_Tiered_Exons_For_Publication.txt | Supplementary Table 1A 157 exons for publication | 
+| Supplementary_Table1B_Tiered_Exons_For_Publication.txt | Supplementary Table 1B prioritized exons for publication |
+| Supplementary_Table1C_Protein_Annotation_For_Publication.txt | Protein annotation file |
 
