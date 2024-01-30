@@ -3,8 +3,7 @@ The program will summarize counts displayed in Figure 1 as well as generate supp
   Executing the summarization script 
 
 ## Pre-built image is available here
-* https://zenodo.org/records/10582220
-* [Click to download the image](https://zenodo.org/records/10582220/files/CSEminer_3_figure_data_generation.tar?download=1)
+* [https://zenodo.org/records/10582220](https://zenodo.org/records/10594740)
 
 
 ## User Configuration Requirements
