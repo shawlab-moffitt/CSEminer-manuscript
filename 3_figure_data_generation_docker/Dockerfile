@@ -7,7 +7,7 @@ COPY DockerInputs/DRPPM_20240112A_newmachine.jar /app/
 # Copy other necessary files
 COPY DockerInputs/drppm /app/
 COPY DockerInputs/step1_unpack_zipped_files.sh /app/
-COPY DockerInputs/step2_run_code.sh /app/
+COPY DockerInputs/step2_run_code_v2.sh /app/
 COPY DockerInputs/pipeline_input_files.zip /app/
 # Run the shell script commands
 RUN chmod +x step1_unpack_zipped_files.sh && ./step1_unpack_zipped_files.sh
