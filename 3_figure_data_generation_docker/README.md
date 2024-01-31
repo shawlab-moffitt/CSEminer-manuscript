@@ -15,6 +15,7 @@ The program will summarize counts displayed in Figure 1 as well as generate supp
 ```
 #  cd into the "3_figure_data_generation_docker" folder
 cd 3_figure_data_generation_docker
+
 # Command will build docker image of the summary script.
 docker build . -t cseminer_example
 
