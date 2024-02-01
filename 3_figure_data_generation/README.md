@@ -23,7 +23,7 @@ mkdir OutputFolder
 chmod u+x drppm
 
 ## Execute the code
-./drppm -CSEminerFigure1ExonClassificationFullPipelineExecMode CompleteAnnotationPipeline/ OutputFolder
+java -Xmx64g -XX:-UseGCOverheadLimit -jar DRPPM_20240112A_newmachine.jar -CSEminerFigure1ExonClassificationFullPipelineExecMode CompleteAnnotationPipeline/ OutputFolder
 ```
 The program performs the final summarization, generating the counts and supplementary data tables used in the manuscript.
 
