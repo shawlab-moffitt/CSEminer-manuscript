@@ -2,6 +2,11 @@
 The program will summarize counts displayed in Figure 1 as well as generate supplementary tables highlighted in cseminer.stjude.org
   Executing the summarization script 
 
+## A pre-built docker image of the analysis is available here
+* https://zenodo.org/records/10582220
+* [Click to download the image](https://zenodo.org/records/10582220/files/CSEminer_3_figure_data_generation.tar?download=1)
+
+
 ## User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
 | --- | --- | --- | --- | 
