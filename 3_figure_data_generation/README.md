@@ -6,6 +6,8 @@ The program will summarize counts displayed in Figure 1 as well as generate supp
 * https://zenodo.org/records/10582220
 * [Click to download the image](https://zenodo.org/records/10582220/files/CSEminer_3_figure_data_generation.tar?download=1)
 
+## Instructions on building the docker image is available here
+* https://github.com/shawlab-moffitt/CSEminer-manuscript-generate-docker-images/tree/main
 
 ## User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
