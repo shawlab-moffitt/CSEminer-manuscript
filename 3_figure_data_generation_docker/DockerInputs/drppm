@@ -1,3 +1,0 @@
-#!/bin/bash
-
-java -Xmx64g -XX:-UseGCOverheadLimit -jar DRPPM_20240112A_newmachine.jar $@
