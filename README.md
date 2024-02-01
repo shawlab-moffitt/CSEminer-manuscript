@@ -182,7 +182,7 @@ sh step1_setup.sh
 | OtherSurfaceomeExonAnnotation.txt | https://zenodo.org/records/10607084/files/OtherSurfaceomeExonAnnotation.txt?download=1 | Surfaceome exon annotation |
 | GRCh38.primary_assembly.genome.fa.gz | https://zenodo.org/records/10607084/files/GRCh38.primary_assembly.genome.fa.gz?download=1 | Assembled human genome | 
 | Homo_sapiens_uniprot_sprot_combined.fasta | https://zenodo.org/records/10607084/files/Homo_sapiens_uniprot_sprot_combined.fasta?download=1 | Uniprot Protein annotation file |
-| Gencode36_Ensembl102_ApprisExonAnnotation.txt | https://www.dropbox.com/s/4ezu3dggqnserq8/Gencode36_Ensembl102_ApprisExonAnnotation.txt?dl=1 | Exon annotation from the APPRIS annotation |
+| Gencode36_Ensembl102_ApprisExonAnnotation.txt | https://zenodo.org/records/10607288/files/Gencode36_Ensembl102_ApprisExonAnnotation.txt?download=1 | Exon annotation from the APPRIS annotation |
 | extra_cellular_matrix.tar.gz | https://zenodo.org/records/10607084/files/extra_cellular_matrix.tar.gz?download=1 | Extra cellular matrix genes |
 | therapeutic_targets.tar.gz | https://zenodo.org/records/10607084/files/therapeutic_targets.tar.gz?download=1 | Genes with annotated therapeutic targets |
 | surfaceome.tar.gz | https://zenodo.org/records/10607084/files/surfaceome.tar.gz?download=1 | surfaceome gene annotation and their databases |
