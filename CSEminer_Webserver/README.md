@@ -1,6 +1,6 @@
 
 # CSE-miner Webserver Tutorial
-[Click here to access](cseminer.stjude.org)
+[Click here to access cseminer.stjude.org](https://cseminer.stjude.org)
 ## Provides a repository of highly expressed protein-coding exons as targets for antibody/CAR-based therapy.
 
 | Pages | Features |
