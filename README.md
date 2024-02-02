@@ -272,7 +272,7 @@ The Output Folder contains the following files
 * The source code of the Shiny app is hosted on Zenodo https://zenodo.org/records/10600281.
 
 ## All the prioritized exon targets can be accessed below:
-[cseminer.stjude.org](cseminer.stjude.org)
+[https://www.cseminer.stjude.org](https://www.cseminer.stjude.org)
 
 # Disclamer
 
