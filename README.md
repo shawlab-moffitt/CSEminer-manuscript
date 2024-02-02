@@ -273,6 +273,7 @@ The Output Folder contains the following files
 
 ## All the exon targets can be explored through the cseminer.stjude.org resource page:
 [https://cseminer.stjude.org/](https://cseminer.stjude.org/)
+[Click to access the Tutorial](https://github.com/shawlab-moffitt/CSEminer-manuscript/blob/main/CSEminer_Webserver/README.md#cse-miner-webserver-tutorial)
 
 # Disclamer
 
