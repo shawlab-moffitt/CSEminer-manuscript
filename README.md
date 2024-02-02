@@ -269,8 +269,9 @@ The Output Folder contains the following files
 
 ## [A Shiny app of the exon heatmap](https://shawlab-moffitt.shinyapps.io/interactiveshinyappexonheatmapstjudepedcancer/) (from Figures 2 and Extended Figures 1-3)
 * Shiny app of the heatmap that can be used to generate the exon heatmap is presented in Figure 2 and Extended Figure 1-3. https://shawlab-moffitt.shinyapps.io/interactiveshinyappexonheatmapstjudepedcancer/. 
-* The source code of the Shiny app is hosted on https://zenodo.org/records/10600281.
+* The source code of the Shiny app is hosted on Zenodo https://zenodo.org/records/10600281.
 
+## The Exon targets can be accessed through cseminer.stjude.org
 
 # Disclamer
 
