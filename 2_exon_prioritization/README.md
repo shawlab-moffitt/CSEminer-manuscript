@@ -60,7 +60,7 @@ The custom Java program checks whether the exon marked as differentially express
 
 | Required Files | URL | Note |
 | | |
-| gencode.v35.primary_assembly.annotation.gtf | https://www.dropbox.com/s/bc0fii0jsccwpie/gencode.v35.primary_assembly.annotation.gtf?dl=1 | GTF file containing the exon-transcripts |
+| gencode.v35.primary_assembly.annotation.gtf | https://zenodo.org/records/10783398/files/gencode.v35.primary_assembly.annotation.gtf.zip?download=1 | GTF file containing the exon-transcripts |
 
 ```
 sh step2_exon_prioritization_example.sh
