@@ -174,7 +174,9 @@ sh step1_setup.sh
 | --- | --- | --- |
 | DRPPM_20220511A_newmachine.jar | https://zenodo.org/records/10607084/files/DRPPM_20220511A_newmachine.jar?download=1 | jar library containing the processing scripts | 
 | GTEx_7526_FPKM_final.txt.tar.gz | https://www.dropbox.com/s/kdl6kbfe2vmpors/GTEx_7526_FPKM_final.txt.tar.gz?dl=1 | GTEX exon quantification file |
+| Normal_FPKM_example.txt.tar.gz | https://zenodo.org/records/10783329/files/Normal_FPKM_example.txt.tar.gz?download=1 | Smaller example of the GTEX exon quantification file |
 | Pediatric_Cancer_FPKM_final.txt.tar.gz | https://www.dropbox.com/s/yx97c913ihw786a/Pediatric_Cancer_FPKM_final.txt.tar.gz?dl=1 | Pediatric Cancer exon quantification file |
+| Pediatric_Cancer_FPKM_example.txt.tar.gz | https://zenodo.org/records/10783329/files/Pediatric_Cancer_FPKM_example.txt.tar.gz?download=1 | Smaller Example of the Pediatric Cancer exon quantification file |
 | complete_surfaceome_updated_20211114.txt | https://zenodo.org/records/10607084/files/complete_surfaceome_updated_20211114.txt?download=1 | Surfaceome gene list | 
 | Diagnosis_Brain_Clinical_PCGP_TARGET_Sample2DiseaseType_Updated.txt | https://zenodo.org/records/10607084/files/Diagnosis_Brain_Clinical_PCGP_TARGET_Sample2DiseaseType_Updated.txt?download=1 | Brain cancer sample annotation |
 | Diagnosis_Solid_Clinical_PCGP_TARGET_Sample2DiseaseType_Updated.txt | https://zenodo.org/records/10607084/files/Diagnosis_Solid_Clinical_PCGP_TARGET_Sample2DiseaseType_Updated.txt?download=1 | Solid tumor sample annotation |
