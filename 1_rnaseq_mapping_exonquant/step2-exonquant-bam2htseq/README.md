@@ -13,7 +13,7 @@ The following input files are necessary.
 The following reference file is needed.
 | References | URL |
 | --- | --- |
-| gencode.v31.primary_assembly.exon.novelexon.gtf | https://www.dropbox.com/s/visytv8td3ft7hk/gencode.v31.primary_assembly.exon.novelexon.gtf?dl=1 |
+| gencode.v31.primary_assembly.exon.novelexon.gtf | https://zenodo.org/records/10783179/files/gencode.v31.primary_assembly.exon.novelexon.gtf?download=1 |
 
 The following command was run 
 ```
